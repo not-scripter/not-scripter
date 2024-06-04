@@ -1,1 +1,1 @@
-[![Pullpo - DevCard](https://devcard.pullpo.io/api?user_id=cogfjl862oas738bdd60&team_id=cogfkj062oas738bdfu0&custom_title=not%20%40%20notscripter&custom_subtitle=Developer&show_icons=true&disable_animations=false&title_color=&text_color=&icon_color=&ring_color=&bg_color=ffffff00&image_url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F106903627%3Fv%3D4)](https://pullpo.io/products/devcard)
+### NOTSCRIPTER
