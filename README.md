@@ -9,6 +9,7 @@
       <br/>
       <b>HTML</b>
     </div>
+    <br />
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48"/>
       <br/>
@@ -60,8 +61,10 @@
     <h2 align="center">Tools I used most</h2>
     <div>
       <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" height="48"/>
+      <br />
       <b>Neovim</b>
     </div>
+    <br />
    </div>
 
 </body>
