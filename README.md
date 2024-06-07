@@ -1,5 +1,5 @@
-<h1 align="center">Namaste 🙏 from Bharat</h1>
- 
+<i align="center">Namaste 🙏 from Bharat</i>
+
 <h2 align="center">Languages supported by my brain</h2>
 
 <div align="center">
