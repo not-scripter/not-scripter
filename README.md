@@ -66,11 +66,17 @@
    </div>
 
    <div alighn="center">
-    <h2 align="center">Tools I used most</h2>
+    <h2 align="center">Tools I uses the most</h2>
     <div>
-      <img src="https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png" height="48"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="48"/>
       <br />
       <b>Neovim</b>
+    </div>
+    <br />
+    <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="48"/>
+      <br />
+      <b>Postman</b>
     </div>
     <br />
    </div>
