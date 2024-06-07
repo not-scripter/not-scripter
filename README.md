@@ -65,7 +65,7 @@
     </div>
    </div>
 
-   <div alighn="center">
+   <div align="center">
     <h2 align="center">Tools I uses the most</h2>
     <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" height="48"/>
