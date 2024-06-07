@@ -1,5 +1,5 @@
 <body>
-<p align="center" style="font-size: 48px;">Namaste 🙏 from Bharat</p>
+<p align="center" big>Namaste 🙏 from Bharat</p>
 
 <h2 align="center">Languages supported by my brain</h2>
 
