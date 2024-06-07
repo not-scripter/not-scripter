@@ -15,4 +15,4 @@
 
 ## Tools I use the most
 
-![test](https://github.com/favicon.ico)
+![test](https://github.com/favicon.ico =24x24)
