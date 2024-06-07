@@ -1,8 +1,11 @@
 <h1 align="center">Namaste 🙏 from Bharat</h1>
+ 
+<h2 align="center">Languages supported by my brain</h2>
 
-## Languages supported by my brain
-
+<h3 align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="24"/>
+<span>HTML</span>
+</h3>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48"/>
 
