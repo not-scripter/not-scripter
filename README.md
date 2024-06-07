@@ -2,9 +2,9 @@
 
 ## Languages supported by my brain
 
-- [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="24"/> **HTML**
+- [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="36"/> **HTML**
 
-- [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="24"/> **CSS**
+- [x] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="16"/> **CSS**
 
 - [x]  HTML
 - [x]  CSS
