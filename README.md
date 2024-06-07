@@ -1,4 +1,4 @@
-# Namaste 🙏 from Bharat
+<h1 align="center">Namaste 🙏 from Bharat</h1>
 
 ## Languages supported by my brain
 
