@@ -2,10 +2,12 @@
  
 <h2 align="center">Languages supported by my brain</h2>
 
-<h3 align="center">
+<ul align="center">
+<li>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="24"/>
-<span>HTML</span>
-</h3>
+<h3 align="center">HTML</h3>
+</li>
+</ul>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="48"/>
 
