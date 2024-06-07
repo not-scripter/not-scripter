@@ -15,4 +15,4 @@
 
 ## Tools I use the most
 
-![test](https://github.com/favicon.ico =24x24)
+![Neovim](https://raw.githubusercontent.com/neovim/neovim.github.io/master/logos/neovim-logo-300x87.png)
