@@ -2,14 +2,15 @@
 
 ## Languages supported by my brain
 
-- [x] HTML
-- [x] CSS
-- [x] Javascript
-- [x] Typescript
-- [x] React
+- [x]  HTML
+- [x]  CSS
+- [x]  Javascript
+- [x] 󰛦 Typescript
+- [x] 󰜈 ReactJS
 - [x] NextJS
-- [x] MongoDB
+- [x]  MongoDB
 - [x] Appwrite
-- [ ] Python
+- [ ]  Python
+- [ ]  Lua
 
 ## Tools I use the most
