@@ -5,6 +5,12 @@
   <div align="center">
     <h2 align="center">Languages supported by my brain</h2>
     <div>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />   
+      <br/>
+      <b>C++</b>
+    </div>
+    <br />
+    <div>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="48"/>
       <br/>
       <b>HTML</b>
