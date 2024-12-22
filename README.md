@@ -1,11 +1,11 @@
 <body>
 
-  <h1 align="center">Namaste 🙏 from Bharat</h1>
+  <h1 align="center">🙏 Namaste from Bharat</h1>
 
   <div align="center">
     <h2 align="center">Languages supported by my brain</h2>
     <div>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />   
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  height="48"/>   
       <br/>
       <b>C++</b>
     </div>
